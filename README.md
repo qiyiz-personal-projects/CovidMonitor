@@ -21,5 +21,5 @@ https://github.com/cen6667/covid-19-china
 
 （已成功部署在阿里云个人服务器）
 
-<img src="/Users/jenny/Library/Application Support/typora-user-images/image-20210727153132488.png" alt="image-20210727153132488" style="zoom:50%;" />
+<img width="1439" alt="图片" src="https://user-images.githubusercontent.com/58060808/127114387-8993cdd4-8cc3-4529-93cf-0424e6d67367.png">
 
